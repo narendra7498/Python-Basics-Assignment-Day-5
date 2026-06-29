@@ -1,9 +1,9 @@
 # Python-Basics-Assignment-Day-5
-Python Basics Assignment Day 55 - Collection of beginner Python programming exercises and solutions using Jupyter Notebook.
+Python Basics Assignment Day 5 - Collection of beginner Python programming exercises and solutions using Jupyter Notebook.
 
 
 ## 📌 Overview
-This repository contains my completed Python Basics Day 55 assignment. It includes solutions to beginner-level Python programming exercises.
+This repository contains my completed Python Basics Day 5 assignment. It includes solutions to beginner-level Python programming exercises.
 
 ## 📚 Topics Covered
 - Variables
